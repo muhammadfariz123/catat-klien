@@ -9,7 +9,7 @@ export default function Landing() {
       {/* HERO */}
       <div className="text-center pt-24 px-4">
         <h1 className="text-4xl md:text-5xl font-bold text-blue-600">
-          CatatKlien
+          Rozi Photography
         </h1>
         <p className="mt-4 text-gray-600 max-w-2xl mx-auto">
           Sistem pencatatan klien dan appointment yang sederhana dan efisien.
